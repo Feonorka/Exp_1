@@ -1,0 +1,15 @@
+C:\Users\aspdg\OneDrive\Документы\C_lang\Exp_2\bin\Debug\net6.0\Exp_2.exe
+C:\Users\aspdg\OneDrive\Документы\C_lang\Exp_2\bin\Debug\net6.0\Exp_2.deps.json
+C:\Users\aspdg\OneDrive\Документы\C_lang\Exp_2\bin\Debug\net6.0\Exp_2.runtimeconfig.json
+C:\Users\aspdg\OneDrive\Документы\C_lang\Exp_2\bin\Debug\net6.0\Exp_2.dll
+C:\Users\aspdg\OneDrive\Документы\C_lang\Exp_2\bin\Debug\net6.0\Exp_2.pdb
+C:\Users\aspdg\OneDrive\Документы\C_lang\Exp_2\obj\Debug\net6.0\Exp_2.csproj.AssemblyReference.cache
+C:\Users\aspdg\OneDrive\Документы\C_lang\Exp_2\obj\Debug\net6.0\Exp_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aspdg\OneDrive\Документы\C_lang\Exp_2\obj\Debug\net6.0\Exp_2.AssemblyInfoInputs.cache
+C:\Users\aspdg\OneDrive\Документы\C_lang\Exp_2\obj\Debug\net6.0\Exp_2.AssemblyInfo.cs
+C:\Users\aspdg\OneDrive\Документы\C_lang\Exp_2\obj\Debug\net6.0\Exp_2.csproj.CoreCompileInputs.cache
+C:\Users\aspdg\OneDrive\Документы\C_lang\Exp_2\obj\Debug\net6.0\Exp_2.dll
+C:\Users\aspdg\OneDrive\Документы\C_lang\Exp_2\obj\Debug\net6.0\refint\Exp_2.dll
+C:\Users\aspdg\OneDrive\Документы\C_lang\Exp_2\obj\Debug\net6.0\Exp_2.pdb
+C:\Users\aspdg\OneDrive\Документы\C_lang\Exp_2\obj\Debug\net6.0\Exp_2.genruntimeconfig.cache
+C:\Users\aspdg\OneDrive\Документы\C_lang\Exp_2\obj\Debug\net6.0\ref\Exp_2.dll
